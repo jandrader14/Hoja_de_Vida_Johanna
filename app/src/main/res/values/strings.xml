@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Hoja de Vida Johanna 🙂</string>
+    <string name="myName" translatable="false">JOHANNA ANDRADE RIVERA</string>
+    <string name="personalInfo">PERSONAL INFORMATION</string>
+    <string name="fotoPerfil" translatable="false">Foto para perfil</string>
+    <string name="informaci_n_personal" translatable="false">Información personal</string>
+    <string name="tituloIdentificacion">ID NUMBER</string>
+    <string name="myPhone" translatable="false">📞 3127126891</string>
+    <string name="myEmail" translatable="false">📧 andrader.johanna@gmail.com</string>
+    <string name="city" translatable="false">Bogotá D.C.</string>
+    <string name="direccionApto" translatable="false">🏡 Carrera 119 # 77-50 Torre 1 Apto 102</string>
+    <string name="cedula" translatable="false">1.016.106.294</string>
+    <string name="descripBtn" translatable="false">Boton de inicio</string>
+    <string name="descripFotoInicial" translatable="false">Foto de perfil</string>
+    <string name="userBoton" translatable="false">icono de usuario</string>
+    <string name="profVane">Risk, Safety and Health Manager at work</string>
+    <string name="phoneVane" translatable="false">📞 3107678027</string>
+    <string name="phoneAndrew" translatable="false">📞 3175128064</string>
+    <string name="ref1" translatable="false">Alexander Díaz Pulido</string>
+    <string name="phoneAlex" translatable="false">📞 3174368153</string>
+    <string name="alejo" translatable="false">Alejandro Torres Díaz</string>
+    <string name="phoneAlejo" translatable="false">📞 3002491707</string>
+    <string name="campoBirth">DATE OF BIRTH</string>
+    <string name="campoPlaceBirth">PLACE OF BIRTH</string>
+    <string name="campoPhone">PHONE NUMBER</string>
+    <string name="direccionResidc">ADDRESS</string>
+    <string name="refPersonales">PERSONAL REFERENCES</string>
+    <string name="refLaborales">LABORAL REFERENCES</string>
+    <string name="referencias">REFERENCES</string>
+    <string name="descrTxt">"Welcome to Johanna's Curriculum "</string>
+    <string name="fechaNacimiento">November 14th, 1998</string>
+    <string name="campoEmail">EMAIL ADDRESS</string>
+    <string name="proAlex">Systems Engineer</string>
+    <string name="cargoAndrew">Cashier</string>
+    <string name="incioBoton" translatable="false">Start</string>
+    <string name="refPersonales1Titulo">Referencias Personales</string>
+    <string name="vanessa_alexandra_quecano">Vanessa Alexandra Quecano</string>
+    <string name="andr_s_rivera">Andrés Rivera</string>
+
+</resources>

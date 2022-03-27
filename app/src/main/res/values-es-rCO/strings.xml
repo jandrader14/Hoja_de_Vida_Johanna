@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurriculumJohanna</string>
+    <string name="personalInfo">INFORMACIÓN PERSONAL</string>
+    <string name="campoBirth">FECHA DE NACIMIENTO</string>
+    <string name="campoPlaceBirth">LUGAR DE NACIMIENTO</string>
+    <string name="campoPhone">TELÉFONO</string>
+    <string name="direccionResidc">DIRECCIÓN DE RESIDENCIA</string>
+    <string name="campoEmail">CORREO ELECTRÓNICO</string>
+    <string name="refPersonales">REFERENCIAS PERSONALES</string>
+    <string name="refLaborales">REFERENCIAS LABORALES</string>
+    <string name="referencias">REFERENCIAS</string>
+    <string name="descrTxt">Bienvenido al curriculum de Johanna</string>
+    <string name="fechaNacimiento">14 de noviembre de 1998</string>
+    <string name="tituloIdentificacion">DOCUMENTO DE IDENTIDAD</string>
+    <string name="proAlex">Ingeniero de Sistemas</string>
+    <string name="cargoAndrew">Cajero</string>
+    <string name="profVane">Administradora del Riesgo, Seguridad y Salud en el trabajo</string>
+    <string name="refPersonales1Titulo">Referencias Personales</string>
+    <string name="vanessa_alexandra_quecano">Vanessa Alexandra Quecano</string>
+    <string name="andr_s_rivera">Andrés Rivera</string>
+</resources>

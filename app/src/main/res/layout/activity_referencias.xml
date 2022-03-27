@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".referencias">
+
+    <TextView
+        android:id="@+id/titleTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|top"
+        android:text="@string/referencias"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/txtV2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleTxt"
+        android:layout_marginTop="60dp"
+        android:gravity="center|top"
+        android:text="@string/refPersonales"
+        android:textSize="25sp" />
+
+    <ImageButton
+        android:id="@+id/imgBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleTxt"
+        android:layout_marginTop="133dp"
+        android:contentDescription="@string/userBoton"
+        app:srcCompat="@drawable/icons8_nombre_de_usuario_96"
+        tools:ignore="UnknownId,DuplicateSpeakableTextCheck" />
+
+    <TextView
+        android:id="@+id/refPer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/vanessa_alexandra_quecano"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/ref_Per1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="48dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/profVane"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/ref_Pers1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="84dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/phoneVane"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/imgBtn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgBtn"
+        android:layout_marginTop="46dp"
+        android:contentDescription="@string/userBoton"
+        app:srcCompat="@drawable/icons8_nombre_de_usuario_96"
+        tools:ignore="UnknownId" />
+
+    <TextView
+        android:id="@+id/refPer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="161dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/andr_s_rivera"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/refPer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="202dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/cargoAndrew"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/refPer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="243dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/phoneAndrew"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtV3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleTxt"
+        android:layout_marginTop="448dp"
+        android:gravity="center|top"
+        android:text="@string/refLaborales"
+        android:textSize="25sp" />
+
+    <ImageButton
+        android:id="@+id/imgBt3"
+        android:layout_width="wrap_content"
+        android:layout_height="131dp"
+        android:layout_below="@+id/titleTxt"
+        android:layout_marginTop="527dp"
+        android:contentDescription="@string/userBoton"
+        app:srcCompat="@drawable/icons8_nombre_de_usuario_96" />
+
+    <TextView
+        android:id="@+id/refPer5"
+        android:layout_width="483dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="394dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/ref1"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/infoBtn1"
+        android:layout_width="476dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/refPer5"
+        android:layout_alignTop="@+id/imgBtn4"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="-143dp"
+        android:layout_toEndOf="@id/imgBtn4"
+        android:background="@color/clarito"
+        android:text="@string/proAlex"
+        android:textColor="#311B92"
+        app:backgroundTint="@null"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+
+    <Button
+        android:id="@+id/infoBtn2"
+        android:layout_width="476dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infoBtn1"
+        android:layout_alignTop="@+id/imgBtn4"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="32dp"
+        android:layout_toEndOf="@id/imgBtn4"
+        android:background="@color/clarito"
+        android:text="@string/proAlex"
+        android:textColor="#311B92"
+        app:backgroundTint="@null" />
+
+    <ImageButton
+        android:id="@+id/imgBtn4"
+        android:layout_width="wrap_content"
+        android:layout_height="136dp"
+        android:layout_below="@+id/imgBtn"
+        android:layout_marginTop="451dp"
+        android:contentDescription="@string/userBoton"
+        app:srcCompat="@drawable/icons8_nombre_de_usuario_96"
+        tools:ignore="UnknownId" />
+
+    <TextView
+        android:id="@+id/refPer6"
+        android:layout_width="480dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgBtn"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="568dp"
+        android:layout_toEndOf="@+id/imgBtn"
+        android:gravity="center"
+        android:text="@string/alejo"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/infoBtn4"
+        android:layout_width="476dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infoBtn1"
+        android:layout_alignTop="@+id/imgBtn4"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="-91dp"
+        android:layout_toEndOf="@id/imgBtn4"
+        android:background="@color/clarito"
+        android:text="@string/phoneAlex"
+        android:textColor="#311B92"
+        app:backgroundTint="@null" />
+
+    <Button
+        android:id="@+id/infoBtn5"
+        android:layout_width="476dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infoBtn1"
+        android:layout_alignTop="@+id/imgBtn4"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="84dp"
+        android:layout_toEndOf="@id/imgBtn4"
+        android:background="@color/clarito"
+        android:text="@string/phoneAlejo"
+        android:textColor="#311B92"
+        app:backgroundTint="@null" />
+
+
+</RelativeLayout>
